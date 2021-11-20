@@ -3,7 +3,7 @@
     padding: 0;
 }
 body {
-    background: linear-gradient(to top,rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('/image/nine.jpg');
+    background: linear-gradient(to top,rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('image/nine.jpg');
 background-repeat: no-repeat;
 background-position: center;
   background-attachment: fixed;
@@ -65,8 +65,8 @@ background: linear-gradient(
   padding:10px 5px ;
 }
 .navmenu li a:hover,.navlinks li a:hover{
-    background-color: white;
- color: black;
+    background-color:black;
+ color: white;
   border: 2px solid grey;
   padding: ;
   text-align: center;
@@ -151,7 +151,7 @@ background: linear-gradient(
     color:  #ff6600;
     font-size: 38px;
     text-align: ;
-    background-color: white;
+    background-color: black;
     padding: 12px 5px;
     border: 2px solid #ff4c4c;
 }
