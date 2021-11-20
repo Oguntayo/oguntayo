@@ -122,7 +122,7 @@ background: linear-gradient(
          align-self:center;
          padding: ;
          text-align: center;
-         width: ;
+         min-width:inherit;
          border: ;
          margin-top: 5px;
      }
